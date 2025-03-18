@@ -1,0 +1,19 @@
+# Virtual muhit
+venv/
+.venv/
+
+# Python avto-fayllari
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ma'lumotlar bazasi
+*.sqlite3
+
+# Media va static fayllar (agar foydalanuvchilar o‘zi yuklasa)
+media/
+
+# Boshqa
+.DS_Store
+*.log
